@@ -1,0 +1,5 @@
+body{
+    background: conic-gradient(from 45deg, rgba(1, 38, 1, 0.9), rgb(60, 60, 6), rgb(45, 4, 4),white, rgb(82, 12, 12),
+     rgb(69, 7, 69),white, rgb(94, 22, 22),rgb(38, 3, 3), rgba(60,60,6,0.5), rgba(255, 255, 255, 0.723),
+     rgba(1, 38, 1, 0.9));
+}

@@ -1,0 +1,76 @@
+.NIGERIA{
+    font-size: 100px;
+    background-image: url(imgaes/OIP.jpeg);
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+body{
+    background-color: #4f4b4bcc;
+}
+    /* {background: linear-gradient(to right,rgba(20, 85, 159, 0.6),
+     rgba(0,25,54,0.65),
+      rgba(90, 147, 21, 0.7),
+       rgba(106, 133, 55, 0.9),
+        rgba(25, 34, 9, 0.5),
+         rgba(136, 79, 155, 0.6));
+}*/
+
+
+.USA{
+    font-size: 100px;
+    background-image: url(imgaes/R.png);
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+.canada{
+    font-size: 100px;
+    background-image: url(imgaes/canada.jpeg);
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+.uk{
+    font-size: 100px;
+    background-image: url(imgaes/R.jpeg);
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+.cal{
+    font-size: 100px;
+    background-image: url(imgaes/california.jpeg);
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+.ger{
+    font-size: 100PX;
+    background-image: url(imgaes/germany.jpeg);
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+.aus{
+    font-size: 100px;
+    background-image: url(imgaes/australia.jpeg);
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
+.fra{
+    font-size: 100px;
+    background-image: url(imgaes/FRANCE.jpeg);
+    background-size: contain;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-align: center;
+}
